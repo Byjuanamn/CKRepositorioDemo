@@ -12,6 +12,7 @@
 
 - (IBAction)magicButtonAction:(id)sender;
 - (IBAction)moreMagicButton:(id)sender;
+- (IBAction)vuduButtonAction:(id)sender;
 
 @end
 
