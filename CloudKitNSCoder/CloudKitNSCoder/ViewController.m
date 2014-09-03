@@ -68,7 +68,7 @@
         if (!error) {
             NSLog(@"Resultado -> %@", results);
             for (CKRecord *place in results) {
-                <#statements#>
+                NSLog(@"Place -> %@", place[@"locationImage"]);
             }
         }
     }];

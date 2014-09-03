@@ -27,19 +27,7 @@
     CKContainer * container = [CKContainer defaultContainer];
     NSLog(@"Container info : %@", container);
     
-    // Acceso a la bbdd publica
-    CKDatabase *db = [container publicCloudDatabase];
-
-//    if ([CLLocationManager locationServicesEnabled] == YES) {
-//        _locationManager = [[CLLocationManager alloc]init];
-//        
-//        CLAuthorizationStatus status =  [CLLocationManager authorizationStatus];
-//        if (status == kCLAuthorizationStatusNotDetermined) {
-//            
-//            [_locationManager requestWhenInUseAuthorization];
-//        }
-//    }
-
+   
     
     return YES;
 }
