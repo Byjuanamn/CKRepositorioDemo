@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>52CD0804-525B-4A31-9526-55D9DEE5E06F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CloudKitNSCoder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7B47F6F23FCC32E761892D8A80E4C4E47054456F</key>
+		<string>https://github.com/Byjuanamn/CKRepositorioDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CloudKitNSCoder/CloudKitNSCoder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7B47F6F23FCC32E761892D8A80E4C4E47054456F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Byjuanamn/CKRepositorioDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B47F6F23FCC32E761892D8A80E4C4E47054456F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B47F6F23FCC32E761892D8A80E4C4E47054456F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CKRepositorioDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

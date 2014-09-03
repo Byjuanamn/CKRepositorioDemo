@@ -25,9 +25,17 @@
     // acceso al container
     
     CKContainer * container = [CKContainer defaultContainer];
-    NSLog(@"Container info : %@", container);
+    NSLog(@"Container info : %@", [container containerIdentifier]);
     
    
+    // podemos saber si el usuario activo tiene iCloud
+    
+    [container accountStatusWithCompletionHandler:^(CKAccountStatus accountStatus, NSError *error) {
+        
+        if (!error) {
+            NSLog(@"El estato es -> %ld", accountStatus);
+        }
+    }];
     
     return YES;
 }
